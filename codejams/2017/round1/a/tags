@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+closest_tidy	tidyNumbers.py	/^    closest_tidy = get_closest_tidy(n)$/;"	kind:variable	line:34
+get_closest_tidy	tidyNumbers.py	/^def get_closest_tidy(n):$/;"	kind:function	line:14
+is_tidy	tidyNumbers.py	/^def is_tidy(n):$/;"	kind:function	line:4
+n	tidyNumbers.py	/^    n = int(test_case)$/;"	kind:variable	line:33
+numTestCases	tidyNumbers.py	/^numTestCases = testCases[0]$/;"	kind:variable	line:26
+os	tidyNumbers.py	/^import os$/;"	kind:namespace	line:1
+output_filename	tidyNumbers.py	/^output_filename = 'output.txt'$/;"	kind:variable	line:28
+prime.py	prime.py	1;"	kind:file	line:1
+testCases	tidyNumbers.py	/^    testCases = input_file.readlines()$/;"	kind:variable	line:25
+tidyNumbers.py	tidyNumbers.py	1;"	kind:file	line:1
+tidy_numbers	tidyNumbers.py	/^tidy_numbers = []$/;"	kind:variable	line:31

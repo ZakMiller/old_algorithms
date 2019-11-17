@@ -1,0 +1,110 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+bathroom - dynamic.py	qualifiers/bathrooms/bathroom - dynamic.py	1;"	kind:file	line:1
+bathrooms - original.py	qualifiers/bathrooms/bathrooms - original.py	1;"	kind:file	line:1
+bathrooms.py	qualifiers/bathrooms/bathrooms.py	1;"	kind:file	line:1
+closest_tidy	qualifiers/tidyNumbers/tidyNumbers.py	/^    closest_tidy = get_closest_tidy(n)$/;"	kind:variable	line:34
+code.py	round1/a/code.py	1;"	kind:file	line:1
+code.py	round1/b/code.py	1;"	kind:file	line:1
+code.py	round1/c/code.py	1;"	kind:file	line:1
+code.py	round1/d/code.py	1;"	kind:file	line:1
+count	qualifiers/pancakes/pancakes.py	/^    count = x[1]$/;"	kind:variable	line:48
+do	round1/a/code.py	/^def do():$/;"	kind:function	line:8
+do	round1/b/code.py	/^def do():$/;"	kind:function	line:8
+do	round1/c/code.py	/^def do():$/;"	kind:function	line:8
+do	round1/d/code.py	/^def do():$/;"	kind:function	line:8
+flip	qualifiers/pancakes/pancakes.py	/^def flip(pancakes, index, count):$/;"	kind:function	line:11
+flip_all	qualifiers/pancakes/pancakes.py	/^def flip_all(pancakes, count):$/;"	kind:function	line:22
+generateLargePrime	round1/a/prime.py	/^def generateLargePrime(keysize=1024):$/;"	kind:function	line:58
+generateLargePrime	round1/b/prime.py	/^def generateLargePrime(keysize=1024):$/;"	kind:function	line:58
+generateLargePrime	round1/c/prime.py	/^def generateLargePrime(keysize=1024):$/;"	kind:function	line:58
+generateLargePrime	round1/d/prime.py	/^def generateLargePrime(keysize=1024):$/;"	kind:function	line:58
+get_closest_tidy	qualifiers/tidyNumbers/tidyNumbers.py	/^def get_closest_tidy(n):$/;"	kind:function	line:14
+get_ls	qualifiers/bathrooms/bathroom - dynamic.py	/^def get_ls(stalls, possible_spot):$/;"	kind:function	line:1
+get_ls	qualifiers/bathrooms/bathrooms - original.py	/^def get_ls(stalls, possible_spot):$/;"	kind:function	line:19
+get_ls	qualifiers/bathrooms/bathrooms.py	/^def get_ls(stalls, possible_spot):$/;"	kind:function	line:19
+get_min_max	qualifiers/bathrooms/bathrooms - original.py	/^def get_min_max(stalls, i):$/;"	kind:function	line:39
+get_min_max	qualifiers/bathrooms/bathrooms.py	/^def get_min_max(stalls, i):$/;"	kind:function	line:39
+get_next_sad_face	qualifiers/pancakes/pancakes.py	/^def get_next_sad_face(pancakes):$/;"	kind:function	line:4
+get_rs	qualifiers/bathrooms/bathroom - dynamic.py	/^def get_rs(stalls, possible_spot):$/;"	kind:function	line:11
+get_rs	qualifiers/bathrooms/bathrooms - original.py	/^def get_rs(stalls, possible_spot):$/;"	kind:function	line:29
+get_rs	qualifiers/bathrooms/bathrooms.py	/^def get_rs(stalls, possible_spot):$/;"	kind:function	line:29
+get_stall	qualifiers/bathrooms/bathrooms - original.py	/^def get_stall(stalls):$/;"	kind:function	line:4
+get_stall	qualifiers/bathrooms/bathrooms.py	/^def get_stall(stalls):$/;"	kind:function	line:4
+get_subproblems	qualifiers/bathrooms/bathroom - dynamic.py	/^def get_subproblems(stalls):$/;"	kind:function	line:33
+isPrime	round1/a/prime.py	/^def isPrime(num):$/;"	kind:function	line:32
+isPrime	round1/b/prime.py	/^def isPrime(num):$/;"	kind:function	line:32
+isPrime	round1/c/prime.py	/^def isPrime(num):$/;"	kind:function	line:32
+isPrime	round1/d/prime.py	/^def isPrime(num):$/;"	kind:function	line:32
+is_tidy	qualifiers/tidyNumbers/tidyNumbers.py	/^def is_tidy(n):$/;"	kind:function	line:4
+min_max	qualifiers/bathrooms/bathrooms - original.py	/^min_max = []$/;"	kind:variable	line:89
+min_max	qualifiers/bathrooms/bathrooms.py	/^min_max = []$/;"	kind:variable	line:89
+n	qualifiers/tidyNumbers/tidyNumbers.py	/^    n = int(test_case)$/;"	kind:variable	line:33
+numTestCases	qualifiers/bathrooms/bathrooms - original.py	/^numTestCases = testCases[0]$/;"	kind:variable	line:84
+numTestCases	qualifiers/bathrooms/bathrooms.py	/^numTestCases = testCases[0]$/;"	kind:variable	line:84
+numTestCases	qualifiers/pancakes/pancakes.py	/^numTestCases = testCases[0]$/;"	kind:variable	line:38
+numTestCases	qualifiers/tidyNumbers/tidyNumbers.py	/^numTestCases = testCases[0]$/;"	kind:variable	line:26
+number_people	qualifiers/bathrooms/bathrooms - original.py	/^    number_people = x[1]$/;"	kind:variable	line:93
+number_people	qualifiers/bathrooms/bathrooms.py	/^    number_people = x[1]$/;"	kind:variable	line:93
+number_stalls	qualifiers/bathrooms/bathrooms - original.py	/^    number_stalls = x[0]$/;"	kind:variable	line:92
+number_stalls	qualifiers/bathrooms/bathrooms.py	/^    number_stalls = x[0]$/;"	kind:variable	line:92
+os	qualifiers/bathrooms/bathrooms - original.py	/^import os$/;"	kind:namespace	line:1
+os	qualifiers/bathrooms/bathrooms.py	/^import os$/;"	kind:namespace	line:1
+os	qualifiers/pancakes/pancakes.py	/^import os$/;"	kind:namespace	line:1
+os	qualifiers/tidyNumbers/tidyNumbers.py	/^import os$/;"	kind:namespace	line:1
+os	round1/a/code.py	/^import os$/;"	kind:namespace	line:1
+os	round1/b/code.py	/^import os$/;"	kind:namespace	line:1
+os	round1/c/code.py	/^import os$/;"	kind:namespace	line:1
+os	round1/d/code.py	/^import os$/;"	kind:namespace	line:1
+output_filename	qualifiers/bathrooms/bathrooms - original.py	/^output_filename = 'output.txt'$/;"	kind:variable	line:86
+output_filename	qualifiers/bathrooms/bathrooms.py	/^output_filename = 'output.txt'$/;"	kind:variable	line:86
+output_filename	qualifiers/pancakes/pancakes.py	/^output_filename = 'output.txt'$/;"	kind:variable	line:40
+output_filename	qualifiers/tidyNumbers/tidyNumbers.py	/^output_filename = 'output.txt'$/;"	kind:variable	line:28
+pancakes	qualifiers/pancakes/pancakes.py	/^    pancakes = x[0]$/;"	kind:variable	line:47
+pancakes.py	qualifiers/pancakes/pancakes.py	1;"	kind:file	line:1
+prime	round1/a/code.py	/^import prime$/;"	kind:namespace	line:2
+prime	round1/b/code.py	/^import prime$/;"	kind:namespace	line:2
+prime	round1/c/code.py	/^import prime$/;"	kind:namespace	line:2
+prime	round1/d/code.py	/^import prime$/;"	kind:namespace	line:2
+prime.py	round1/a/prime.py	1;"	kind:file	line:1
+prime.py	round1/b/prime.py	1;"	kind:file	line:1
+prime.py	round1/c/prime.py	1;"	kind:file	line:1
+prime.py	round1/d/prime.py	1;"	kind:file	line:1
+problem_key	qualifiers/bathrooms/bathroom - dynamic.py	/^    problem_key = ''.join(problem)$/;"	kind:variable	line:46
+progress	qualifiers/pancakes/pancakes.py	/^progress = []$/;"	kind:variable	line:44
+rabinMiller	round1/a/prime.py	/^def rabinMiller(num):$/;"	kind:function	line:7
+rabinMiller	round1/b/prime.py	/^def rabinMiller(num):$/;"	kind:function	line:7
+rabinMiller	round1/c/prime.py	/^def rabinMiller(num):$/;"	kind:function	line:7
+rabinMiller	round1/d/prime.py	/^def rabinMiller(num):$/;"	kind:function	line:7
+random	round1/a/prime.py	/^import random$/;"	kind:namespace	line:4
+random	round1/b/prime.py	/^import random$/;"	kind:namespace	line:4
+random	round1/c/prime.py	/^import random$/;"	kind:namespace	line:4
+random	round1/d/prime.py	/^import random$/;"	kind:namespace	line:4
+seat_everyone	qualifiers/bathrooms/bathrooms - original.py	/^def seat_everyone(stalls, number_people):$/;"	kind:function	line:45
+seat_everyone	qualifiers/bathrooms/bathrooms.py	/^def seat_everyone(stalls, number_people):$/;"	kind:function	line:45
+solution	qualifiers/bathrooms/bathroom - dynamic.py	/^        solution = solutions[problem_key]$/;"	kind:variable	line:48
+solution	qualifiers/bathrooms/bathroom - dynamic.py	/^        solution = solve(problem)$/;"	kind:variable	line:50
+solutions	qualifiers/bathrooms/bathroom - dynamic.py	/^solutions = {}$/;"	kind:variable	line:44
+solve	qualifiers/bathrooms/bathroom - dynamic.py	/^def solve(sub_stalls):$/;"	kind:function	line:21
+stalls	qualifiers/bathrooms/bathroom - dynamic.py	/^stalls = [True, True, False, True, False, False, False, True]$/;"	kind:variable	line:43
+stalls	qualifiers/bathrooms/bathrooms - original.py	/^    stalls = [True] + int(number_stalls) * [False] + [True]$/;"	kind:variable	line:94
+stalls	qualifiers/bathrooms/bathrooms.py	/^    stalls = [True] + int(number_stalls) * [False] + [True]$/;"	kind:variable	line:94
+testCases	qualifiers/bathrooms/bathrooms - original.py	/^    testCases = input_file.readlines()$/;"	kind:variable	line:83
+testCases	qualifiers/bathrooms/bathrooms.py	/^    testCases = input_file.readlines()$/;"	kind:variable	line:83
+testCases	qualifiers/pancakes/pancakes.py	/^    testCases = input_file.readlines()$/;"	kind:variable	line:37
+testCases	qualifiers/tidyNumbers/tidyNumbers.py	/^    testCases = input_file.readlines()$/;"	kind:variable	line:25
+tidyNumbers.py	qualifiers/tidyNumbers/tidyNumbers.py	1;"	kind:file	line:1
+tidy_numbers	qualifiers/tidyNumbers/tidyNumbers.py	/^tidy_numbers = []$/;"	kind:variable	line:31
+to_print	qualifiers/pancakes/pancakes.py	/^            to_print = "IMPOSSIBLE"$/;"	kind:variable	line:54
+to_print	qualifiers/pancakes/pancakes.py	/^            to_print = str(progress[i])$/;"	kind:variable	line:56
+x	qualifiers/bathrooms/bathrooms - original.py	/^    x = testCases[i].split()$/;"	kind:variable	line:91
+x	qualifiers/bathrooms/bathrooms.py	/^    x = testCases[i].split()$/;"	kind:variable	line:91
+x	qualifiers/pancakes/pancakes.py	/^    x = testCases[i].split()$/;"	kind:variable	line:46
+x	round1/a/code.py	/^x = 1024124214811$/;"	kind:variable	line:4
+x	round1/b/code.py	/^x = 1024124214811$/;"	kind:variable	line:4
+x	round1/c/code.py	/^x = 1024124214811$/;"	kind:variable	line:4
+x	round1/d/code.py	/^x = 1024124214811$/;"	kind:variable	line:4

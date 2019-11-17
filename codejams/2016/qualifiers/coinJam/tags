@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+coinJam	coinJam.py	/^def coinJam():$/;"	kind:function	line:74
+coinJam.py	coinJam.py	1;"	kind:file	line:1
+getAllPossibleJamcoins	coinJam.py	/^def getAllPossibleJamcoins(lengthJamcoin):$/;"	kind:function	line:21
+getDecimalValueOfStringFromBase	coinJam.py	/^def getDecimalValueOfStringFromBase(jamcoin, base):$/;"	kind:function	line:4
+getDivisors	coinJam.py	/^def getDivisors(jamcoin):$/;"	kind:function	line:54
+getJamcoinInfo	coinJam.py	/^def getJamcoinInfo(lengthJamcoin, numJamcoins):$/;"	kind:function	line:66
+getJamcoins	coinJam.py	/^def getJamcoins(lengthJamcoin, numJamcoins):$/;"	kind:function	line:43
+getNextPossibleJamcoin	coinJam.py	/^def getNextPossibleJamcoin(previousPossibleJamcoin):$/;"	kind:function	line:30
+hasDivisor	coinJam.py	/^def hasDivisor(jamcoin, base):$/;"	kind:function	line:14
+isValidJamcoin	coinJam.py	/^def isValidJamcoin(possibleJamcoin):$/;"	kind:function	line:38
+math	coinJam.py	/^import math$/;"	kind:namespace	line:2
+os	coinJam.py	/^import os$/;"	kind:namespace	line:1
+verify_divisors	coinJam.py	/^def verify_divisors(string):$/;"	kind:function	line:94
